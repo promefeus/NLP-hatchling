@@ -18,4 +18,3 @@ logs/
 data/
 # Model checkpoints
 checkpoints/
-bdh_results.json
