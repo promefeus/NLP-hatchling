@@ -147,3 +147,4 @@ MIT License
 ## Author
 
 Tushar Jagannath Jagtap
+Nitin Saini
